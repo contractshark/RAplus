@@ -1,4 +1,4 @@
-RUNNING = 'running'
-TERMINATED = 'terminated'
-RETURNED = 'returned'
-CALLABLE = 'callable'
+RUNNING = "running"
+TERMINATED = "terminated"
+RETURNED = "returned"
+CALLABLE = "callable"
